@@ -1,3 +1,4 @@
 app/
+!app_web/app/
 data/
 catboost_info/
